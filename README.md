@@ -42,4 +42,7 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 1. The Atliq Hardweare Dataset downloaded from codebasics course and is used for this project providing valuable sales and financial data.
 2. Special thanks to the contributors and developers of Excel and power bi and also related tools for enabling powerful data analysis and reporting capabilities.
 
+## Linkedln post Link :-
+https://www.linkedin.com/feed/update/urn:li:activity:7103290756886335488/
+
 
